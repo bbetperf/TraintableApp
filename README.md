@@ -9,3 +9,5 @@
 + Парсингу и выводу .json в RecycleView.
 + Splash Screen.
 + Intent'у, анимациям и дизайну.
+
+## Есть .apk! ##
