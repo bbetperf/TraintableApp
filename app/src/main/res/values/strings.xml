@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Traintable</string>
+    <string name="Ryazan">Рязань 1</string>
+    <string name="Schelokovo">Щелково</string>
+    <string name="Pushkino">Пушкино</string>
+    <string name="Ramenskoe">Раменское</string>
+    <string name="Yaroslavsky_station">Ярославский вокзал</string>
+    <string name="Kazansky_station">Казанский вокзал</string>
+    <string name="Railway_stations">Железнодорожные станции</string>
+    <string name="Choose_station_Title">Выберите\nстанцию</string>
+    <string name="To">куда?</string>
+    <string name="From">откуда?</string>
+    <string name="Direction">Направление</string>
+    <string name="Train_timetable">Расписание\nэлектричек</string>
+    <string name="Timetable_Subtitle">Расписание</string>
+    <string name="Select_stations_Title">Выберите станции Вашего\nнаправления пути</string>
+    <string name="No_way_stations_Title">По данным направлениям поезда не курсируют.\nВыберите другие станции!</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

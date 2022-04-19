@@ -1,0 +1,5174 @@
+{
+  "kaz_ram": [
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "04:56",
+      "time_to": "06:03",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "05:24",
+      "time_to": "06:31",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "05:42",
+      "time_to": "06:50",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "05:51",
+      "time_to": "06:58",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "06:08",
+      "time_to": "07:16",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 4 м",
+      "time_from": "06:17",
+      "time_to": "07:21",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "06:30",
+      "time_to": "07:37",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "06:43",
+      "time_to": "07:51",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "07:00",
+      "time_to": "08:07",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "07:11",
+      "time_to": "08:18",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 15 м",
+      "time_from": "07:23",
+      "time_to": "08:38",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "07:37",
+      "time_to": "08:44",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 6 м",
+      "time_from": "07:50",
+      "time_to": "08:56",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "08:00",
+      "time_to": "08:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 9 м",
+      "time_from": "08:01",
+      "time_to": "09:10",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "08:30",
+      "time_to": "09:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 2 м",
+      "time_from": "08:38",
+      "time_to": "09:40",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 9 м",
+      "time_from": "08:41",
+      "time_to": "09:50",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "08:48",
+      "time_to": "09:56",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "47 м",
+      "time_from": "08:48",
+      "time_to": "09:35",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "08:53",
+      "time_to": "10:01",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "09:00",
+      "time_to": "10:08",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "09:00",
+      "time_to": "09:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "57 м",
+      "time_from": "09:10",
+      "time_to": "10:07",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 9 м",
+      "time_from": "09:20",
+      "time_to": "10:29",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "09:30",
+      "time_to": "10:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 4 м",
+      "time_from": "09:33",
+      "time_to": "10:37",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "09:38",
+      "time_to": "10:46",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "09:51",
+      "time_to": "10:59",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "09:58",
+      "time_to": "11:06",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "10:00",
+      "time_to": "10:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "10:03",
+      "time_to": "11:11",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "10:16",
+      "time_to": "11:23",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "10:23",
+      "time_to": "11:30",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 5 м",
+      "time_from": "10:30",
+      "time_to": "11:35",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 10 м",
+      "time_from": "10:35",
+      "time_to": "11:45",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "11:12",
+      "time_to": "12:19",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "53 м",
+      "time_from": "11:30",
+      "time_to": "12:23",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 9 м",
+      "time_from": "11:37",
+      "time_to": "12:46",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "12:10",
+      "time_to": "13:18",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 9 м",
+      "time_from": "12:34",
+      "time_to": "13:43",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 5 м",
+      "time_from": "12:46",
+      "time_to": "13:51",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 4 м",
+      "time_from": "12:53",
+      "time_to": "13:57",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "13:00",
+      "time_to": "13:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "13:01",
+      "time_to": "14:09",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 9 м",
+      "time_from": "13:10",
+      "time_to": "14:19",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "47 м",
+      "time_from": "13:38",
+      "time_to": "14:25",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "13:46",
+      "time_to": "14:53",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "14:00",
+      "time_to": "15:07",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "42 м",
+      "time_from": "14:10",
+      "time_to": "14:52",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "14:16",
+      "time_to": "15:24",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 4 м",
+      "time_from": "14:27",
+      "time_to": "15:31",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "14:33",
+      "time_to": "15:41",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "14:45",
+      "time_to": "15:53",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "15:00",
+      "time_to": "15:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 9 м",
+      "time_from": "15:03",
+      "time_to": "16:12",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 1 м",
+      "time_from": "15:19",
+      "time_to": "16:20",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 5 м",
+      "time_from": "15:25",
+      "time_to": "16:30",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 6 м",
+      "time_from": "15:30",
+      "time_to": "16:36",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 6 м",
+      "time_from": "15:37",
+      "time_to": "16:43",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "15:42",
+      "time_to": "16:50",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "15:55",
+      "time_to": "17:02",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "16:00",
+      "time_to": "16:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "16:02",
+      "time_to": "17:10",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 10 м",
+      "time_from": "16:17",
+      "time_to": "17:27",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "16:24",
+      "time_to": "17:32",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "16:30",
+      "time_to": "17:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 9 м",
+      "time_from": "16:31",
+      "time_to": "17:40",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "16:48",
+      "time_to": "17:55",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "42 м",
+      "time_from": "16:56",
+      "time_to": "17:38",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "17:02",
+      "time_to": "18:10",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "17:15",
+      "time_to": "18:22",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "17:20",
+      "time_to": "18:27",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "56 м",
+      "time_from": "17:25",
+      "time_to": "18:21",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "17:30",
+      "time_to": "18:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "17:39",
+      "time_to": "18:46",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "17:46",
+      "time_to": "18:53",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "17:52",
+      "time_to": "18:59",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 6 м",
+      "time_from": "17:59",
+      "time_to": "19:05",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "18:00",
+      "time_to": "18:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 10 м",
+      "time_from": "18:06",
+      "time_to": "19:16",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 12 м",
+      "time_from": "18:12",
+      "time_to": "19:24",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 9 м",
+      "time_from": "18:28",
+      "time_to": "19:37",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "18:30",
+      "time_to": "19:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 9 м",
+      "time_from": "18:33",
+      "time_to": "19:42",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "56 м",
+      "time_from": "18:38",
+      "time_to": "19:34",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "18:50",
+      "time_to": "19:58",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "19:00",
+      "time_to": "19:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "19:01",
+      "time_to": "20:08",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "19:07",
+      "time_to": "20:14",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "49 м",
+      "time_from": "19:13",
+      "time_to": "20:02",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч",
+      "time_from": "19:25",
+      "time_to": "20:25",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "46 м",
+      "time_from": "19:30",
+      "time_to": "20:16",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "19:33",
+      "time_to": "20:40",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "19:40",
+      "time_to": "20:47",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "19:52",
+      "time_to": "20:59",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "19:58",
+      "time_to": "21:06",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "20:00",
+      "time_to": "20:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "20:03",
+      "time_to": "21:11",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "20:11",
+      "time_to": "21:19",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 2 м",
+      "time_from": "20:30",
+      "time_to": "21:32",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "20:39",
+      "time_to": "21:46",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "21:00",
+      "time_to": "21:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 3 м",
+      "time_from": "21:06",
+      "time_to": "22:09",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "21:13",
+      "time_to": "22:20",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "21:22",
+      "time_to": "22:29",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "21:36",
+      "time_to": "22:43",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "58 м",
+      "time_from": "21:50",
+      "time_to": "22:48",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "21:57",
+      "time_to": "23:04",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "45 м",
+      "time_from": "22:00",
+      "time_to": "22:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "22:21",
+      "time_to": "23:28",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "22:28",
+      "time_to": "23:35",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "22:52",
+      "time_to": "23:59",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 8 м",
+      "time_from": "23:20",
+      "time_to": "00:28",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "23:42",
+      "time_to": "00:49",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 7 м",
+      "time_from": "00:03",
+      "time_to": "01:10",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 18 м",
+      "time_from": "00:54",
+      "time_to": "02:12",
+      "total_price": "135₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Раменское",
+      "time_all": "1 ч 34 м",
+      "time_from": "01:15",
+      "time_to": "02:49",
+      "total_price": "135₽"
+    }
+  ],
+  "ram_kaz": [
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "04:25",
+      "time_to": "05:34",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "04:52",
+      "time_to": "06:01",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "05:08",
+      "time_to": "06:17",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "05:14",
+      "time_to": "06:23",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "55 м",
+      "time_from": "05:34",
+      "time_to": "06:29",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 7 м",
+      "time_from": "05:39",
+      "time_to": "06:46",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "05:49",
+      "time_to": "06:59",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 7 м",
+      "time_from": "05:57",
+      "time_to": "07:04",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "06:00",
+      "time_to": "06:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "06:01",
+      "time_to": "07:10",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "06:14",
+      "time_to": "07:22",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "06:20",
+      "time_to": "07:29",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "06:27",
+      "time_to": "07:36",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "06:30",
+      "time_to": "07:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "06:34",
+      "time_to": "07:43",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "06:38",
+      "time_to": "07:23",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "06:46",
+      "time_to": "07:55",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "06:52",
+      "time_to": "08:01",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "07:00",
+      "time_to": "07:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "07:04",
+      "time_to": "08:14",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "07:09",
+      "time_to": "08:19",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "07:20",
+      "time_to": "08:29",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "07:26",
+      "time_to": "08:35",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "07:30",
+      "time_to": "08:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "07:37",
+      "time_to": "08:47",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 12 м",
+      "time_from": "07:47",
+      "time_to": "08:59",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "08:00",
+      "time_to": "08:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 15 м",
+      "time_from": "08:01",
+      "time_to": "09:16",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "48 м",
+      "time_from": "08:06",
+      "time_to": "08:54",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 11 м",
+      "time_from": "08:10",
+      "time_to": "09:21",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 11 м",
+      "time_from": "08:22",
+      "time_to": "09:33",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "08:29",
+      "time_to": "09:39",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "08:30",
+      "time_to": "09:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "08:35",
+      "time_to": "09:44",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "08:41",
+      "time_to": "09:51",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "08:58",
+      "time_to": "10:07",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "09:00",
+      "time_to": "09:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "09:06",
+      "time_to": "10:15",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "09:25",
+      "time_to": "10:34",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "09:30",
+      "time_to": "10:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 4 м",
+      "time_from": "09:44",
+      "time_to": "10:48",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 11 м",
+      "time_from": "09:54",
+      "time_to": "11:05",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "53 м",
+      "time_from": "10:17",
+      "time_to": "11:10",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "10:24",
+      "time_to": "11:34",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "10:35",
+      "time_to": "11:43",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "10:45",
+      "time_to": "11:55",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "11:14",
+      "time_to": "12:24",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "12:00",
+      "time_to": "12:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "12:05",
+      "time_to": "13:15",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "42 м",
+      "time_from": "12:33",
+      "time_to": "13:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 12 м",
+      "time_from": "12:33",
+      "time_to": "13:45",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "12:48",
+      "time_to": "13:57",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "13:00",
+      "time_to": "13:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 5 м",
+      "time_from": "13:01",
+      "time_to": "14:07",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "13:06",
+      "time_to": "14:15",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "13:18",
+      "time_to": "14:27",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "13:29",
+      "time_to": "14:38",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "13:42",
+      "time_to": "14:51",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "14:00",
+      "time_to": "14:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "14:00",
+      "time_to": "15:09",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "14:10",
+      "time_to": "15:18",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "14:20",
+      "time_to": "15:29",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 2 м",
+      "time_from": "14:33",
+      "time_to": "15:36",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "14:52",
+      "time_to": "16:01",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "14:59",
+      "time_to": "16:09",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "15:00",
+      "time_to": "15:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "15:06",
+      "time_to": "16:15",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "15:14",
+      "time_to": "16:23",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "15:28",
+      "time_to": "16:37",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "15:30",
+      "time_to": "16:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "15:38",
+      "time_to": "16:48",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "15:52",
+      "time_to": "17:01",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "43 м",
+      "time_from": "15:59",
+      "time_to": "16:42",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 7 м",
+      "time_from": "16:07",
+      "time_to": "17:14",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 14 м",
+      "time_from": "16:13",
+      "time_to": "17:27",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "16:23",
+      "time_to": "17:32",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "16:29",
+      "time_to": "17:38",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "16:30",
+      "time_to": "17:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "16:36",
+      "time_to": "17:45",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "16:43",
+      "time_to": "17:52",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "16:49",
+      "time_to": "17:58",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "17:00",
+      "time_to": "17:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 4 м",
+      "time_from": "17:01",
+      "time_to": "18:05",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 5 м",
+      "time_from": "17:05",
+      "time_to": "18:11",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "46 м",
+      "time_from": "17:14",
+      "time_to": "18:00",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 6 м",
+      "time_from": "17:23",
+      "time_to": "18:29",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 11 м",
+      "time_from": "17:28",
+      "time_to": "18:39",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "17:30",
+      "time_to": "18:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "17:41",
+      "time_to": "18:51",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 11 м",
+      "time_from": "17:55",
+      "time_to": "19:06",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "18:00",
+      "time_to": "18:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "18:09",
+      "time_to": "19:18",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "18:15",
+      "time_to": "19:24",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 11 м",
+      "time_from": "18:28",
+      "time_to": "19:39",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "18:30",
+      "time_to": "19:15",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 6 м",
+      "time_from": "18:40",
+      "time_to": "19:46",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 12 м",
+      "time_from": "18:45",
+      "time_to": "19:57",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "19:00",
+      "time_to": "19:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "19:06",
+      "time_to": "20:15",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 8 м",
+      "time_from": "19:16",
+      "time_to": "20:25",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 6 м",
+      "time_from": "19:31",
+      "time_to": "20:38",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 12 м",
+      "time_from": "19:38",
+      "time_to": "20:50",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "19:44",
+      "time_to": "20:55",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "20:00",
+      "time_to": "20:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "20:03",
+      "time_to": "21:12",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 7 м",
+      "time_from": "20:13",
+      "time_to": "21:21",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 5 м",
+      "time_from": "20:22",
+      "time_to": "21:27",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "20:40",
+      "time_to": "21:49",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "20:53",
+      "time_to": "22:03",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "45 м",
+      "time_from": "21:00",
+      "time_to": "21:45",
+      "total_price": "220₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "21:03",
+      "time_to": "22:13",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 1 м",
+      "time_from": "21:20",
+      "time_to": "22:21",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "21:29",
+      "time_to": "22:38",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "21:39",
+      "time_to": "22:49",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 6 м",
+      "time_from": "21:50",
+      "time_to": "22:56",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "22:18",
+      "time_to": "23:27",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 9 м",
+      "time_from": "22:53",
+      "time_to": "00:02",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 4 м",
+      "time_from": "23:06",
+      "time_to": "00:10",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 10 м",
+      "time_from": "23:19",
+      "time_to": "00:29",
+      "total_price": "81₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Казанский вокзал",
+      "time_all": "1 ч 1 м",
+      "time_from": "23:51",
+      "time_to": "00:52",
+      "total_price": "81₽"
+    }
+  ],
+  "kaz_rzn": [
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Рязань 1",
+      "time_all": "3 ч 44 м",
+      "time_from": "07:00",
+      "time_to": "10:44",
+      "total_price": "665₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Рязань 1",
+      "time_all": "4 ч 56 м",
+      "time_from": "08:38",
+      "time_to": "13:34",
+      "total_price": "534₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Рязань 1",
+      "time_all": "2 ч 55 м",
+      "time_from": "12:28",
+      "time_to": "15:23",
+      "total_price": "665₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Рязань 1",
+      "time_all": "3 ч 47 м",
+      "time_from": "15:19",
+      "time_to": "19:06",
+      "total_price": "534₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Рязань 1",
+      "time_all": "2 ч 48 м",
+      "time_from": "18:20",
+      "time_to": "21:08",
+      "total_price": "780₽"
+    },
+    {
+      "station_from": "Казанский вокзал",
+      "station_to": "Рязань 1",
+      "time_all": "3 ч 33 м",
+      "time_from": "19:13",
+      "time_to": "22:46",
+      "total_price": "534₽"
+    }
+  ],
+  "rzn_kaz": [
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Казанский вокзал",
+      "time_all": "3 ч 45 м",
+      "time_from": "03:38",
+      "time_to": "07:23",
+      "total_price": "534₽"
+    },
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Казанский вокзал",
+      "time_all": "3 ч 29 м",
+      "time_from": "05:25",
+      "time_to": "08:54",
+      "total_price": "534₽"
+    },
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Казанский вокзал",
+      "time_all": "2 ч 45 м",
+      "time_from": "08:00",
+      "time_to": "10:45",
+      "total_price": "780₽"
+    },
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Казанский вокзал",
+      "time_all": "2 ч 42 м",
+      "time_from": "12:38",
+      "time_to": "15:20",
+      "total_price": "665₽"
+    },
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Казанский вокзал",
+      "time_all": "4 ч 1 м",
+      "time_from": "14:28",
+      "time_to": "18:29",
+      "total_price": "534₽"
+    },
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Казанский вокзал",
+      "time_all": "2 ч 45 м",
+      "time_from": "16:40",
+      "time_to": "19:25",
+      "total_price": "665₽"
+    },
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Казанский вокзал",
+      "time_all": "4 ч 10 м",
+      "time_from": "17:17",
+      "time_to": "21:27",
+      "total_price": "534₽"
+    }
+  ],
+  "rzn_ram": [
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Раменское",
+      "time_all": "2 ч 59 м",
+      "time_from": "3:38",
+      "time_to": "6:37",
+      "total_price": "399 ₽"
+    },
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Раменское",
+      "time_all": "2 ч 40 м",
+      "time_from": "5:25",
+      "time_to": "8:05",
+      "total_price": "399 ₽"
+    },
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Раменское",
+      "time_all": "2 ч 54 м",
+      "time_from": "14:28",
+      "time_to": "17:22",
+      "total_price": "399 ₽"
+    },
+    {
+      "station_from": "Рязань 1",
+      "station_to": "Раменское",
+      "time_all": "3 ч 4 м",
+      "time_from": "17:17",
+      "time_to": "20:21",
+      "total_price": "399 ₽"
+    }
+  ],
+  "ram_rzn": [
+    {
+      "station_from": "Раменское",
+      "station_to": "Рязань 1",
+      "time_all": "3 ч 53 м",
+      "time_from": "9:41",
+      "time_to": "13:34",
+      "total_price": "399 ₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Рязань 1",
+      "time_all": "2 ч 45 м",
+      "time_from": "16:12",
+      "time_to": "16:21",
+      "total_price": "399 ₽"
+    },
+    {
+      "station_from": "Раменское",
+      "station_to": "Рязань 1",
+      "time_all": "2 ч 43 м",
+      "time_from": "20:03",
+      "time_to": "20:02",
+      "total_price": "399 ₽"
+    }
+  ],
+  "yar_sch": [
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 1 м",
+      "time_from": "04:05",
+      "time_to": "05:06",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "57 м",
+      "time_from": "04:21",
+      "time_to": "05:18",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "04:46",
+      "time_to": "05:44",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "05:04",
+      "time_to": "06:02",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "57 м",
+      "time_from": "05:22",
+      "time_to": "06:19",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "05:28",
+      "time_to": "06:27",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 3 м",
+      "time_from": "05:34",
+      "time_to": "06:37",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч",
+      "time_from": "06:10",
+      "time_to": "07:10",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 2 м",
+      "time_from": "06:16",
+      "time_to": "07:18",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 1 м",
+      "time_from": "06:34",
+      "time_to": "07:35",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 3 м",
+      "time_from": "06:40",
+      "time_to": "07:43",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч",
+      "time_from": "07:16",
+      "time_to": "08:16",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 1 м",
+      "time_from": "07:22",
+      "time_to": "08:23",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч",
+      "time_from": "07:40",
+      "time_to": "08:40",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "07:52",
+      "time_to": "08:51",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "57 м",
+      "time_from": "08:10",
+      "time_to": "09:07",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "57 м",
+      "time_from": "08:28",
+      "time_to": "09:25",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "57 м",
+      "time_from": "08:40",
+      "time_to": "09:37",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "55 м",
+      "time_from": "09:00",
+      "time_to": "09:55",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "09:16",
+      "time_to": "10:14",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "57 м",
+      "time_from": "10:04",
+      "time_to": "11:01",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "10:30",
+      "time_to": "11:29",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 1 м",
+      "time_from": "10:43",
+      "time_to": "11:44",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "12:42",
+      "time_to": "13:41",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "13:06",
+      "time_to": "14:04",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "13:32",
+      "time_to": "14:30",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 1 м",
+      "time_from": "13:39",
+      "time_to": "14:40",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "14:10",
+      "time_to": "15:08",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "14:31",
+      "time_to": "15:29",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 1 м",
+      "time_from": "14:37",
+      "time_to": "15:38",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "15:34",
+      "time_to": "16:32",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "15:40",
+      "time_to": "16:39",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "15:52",
+      "time_to": "16:50",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч",
+      "time_from": "16:05",
+      "time_to": "17:05",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 1 м",
+      "time_from": "16:27",
+      "time_to": "17:28",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "16:51",
+      "time_to": "17:49",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "16:57",
+      "time_to": "17:56",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч",
+      "time_from": "17:21",
+      "time_to": "18:21",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "52 м",
+      "time_from": "17:35",
+      "time_to": "18:27",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 4 м",
+      "time_from": "17:45",
+      "time_to": "18:49",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "52 м",
+      "time_from": "18:09",
+      "time_to": "19:01",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч",
+      "time_from": "18:15",
+      "time_to": "19:15",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "47 м",
+      "time_from": "18:40",
+      "time_to": "19:27",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 3 м",
+      "time_from": "18:40",
+      "time_to": "19:43",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "46 м",
+      "time_from": "18:50",
+      "time_to": "19:36",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "18:57",
+      "time_to": "19:55",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "19:03",
+      "time_to": "20:02",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "19:33",
+      "time_to": "20:32",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "47 м",
+      "time_from": "19:35",
+      "time_to": "20:22",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "48 м",
+      "time_from": "19:40",
+      "time_to": "20:28",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "19:58",
+      "time_to": "20:57",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "57 м",
+      "time_from": "20:11",
+      "time_to": "21:08",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "20:30",
+      "time_to": "21:28",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "20:54",
+      "time_to": "21:53",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 3 м",
+      "time_from": "21:16",
+      "time_to": "22:19",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч",
+      "time_from": "21:36",
+      "time_to": "22:36",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "58 м",
+      "time_from": "21:48",
+      "time_to": "22:46",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "59 м",
+      "time_from": "22:20",
+      "time_to": "23:19",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 1 м",
+      "time_from": "22:56",
+      "time_to": "23:57",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч",
+      "time_from": "23:08",
+      "time_to": "00:08",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 12 м",
+      "time_from": "00:07",
+      "time_to": "01:19",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Щелково",
+      "time_all": "1 ч 2 м",
+      "time_from": "01:00",
+      "time_to": "02:02",
+      "total_price": "108₽"
+    }
+  ],
+  "sch_yar": [
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "56 м",
+      "time_from": "04:39",
+      "time_to": "05:35",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 2 м",
+      "time_from": "04:49",
+      "time_to": "05:51",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "05:32",
+      "time_to": "06:33",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "05:56",
+      "time_to": "06:57",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 3 м",
+      "time_from": "06:06",
+      "time_to": "07:09",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 3 м",
+      "time_from": "06:18",
+      "time_to": "07:21",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 2 м",
+      "time_from": "06:25",
+      "time_to": "07:27",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "06:32",
+      "time_to": "07:33",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 1 м",
+      "time_from": "06:56",
+      "time_to": "07:57",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 6 м",
+      "time_from": "07:04",
+      "time_to": "08:10",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 4 м",
+      "time_from": "07:11",
+      "time_to": "08:15",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "07:26",
+      "time_to": "08:27",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "07:32",
+      "time_to": "08:33",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "49 м",
+      "time_from": "07:51",
+      "time_to": "08:40",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "07:58",
+      "time_to": "08:59",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 3 м",
+      "time_from": "08:12",
+      "time_to": "09:15",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 1 м",
+      "time_from": "08:26",
+      "time_to": "09:27",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "08:33",
+      "time_to": "09:33",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "08:39",
+      "time_to": "09:39",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "54 м",
+      "time_from": "09:03",
+      "time_to": "09:57",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "09:10",
+      "time_to": "10:09",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "09:31",
+      "time_to": "10:29",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "57 м",
+      "time_from": "09:57",
+      "time_to": "10:54",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "10:23",
+      "time_to": "11:21",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "11:14",
+      "time_to": "12:14",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "12:48",
+      "time_to": "13:47",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "13:00",
+      "time_to": "13:59",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "48 м",
+      "time_from": "13:30",
+      "time_to": "14:18",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "13:38",
+      "time_to": "14:36",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "13:51",
+      "time_to": "14:50",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "14:17",
+      "time_to": "15:15",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "14:34",
+      "time_to": "15:33",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "56 м",
+      "time_from": "15:00",
+      "time_to": "15:57",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "15:12",
+      "time_to": "16:10",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "15:19",
+      "time_to": "16:17",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "15:57",
+      "time_to": "16:56",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "16:27",
+      "time_to": "17:26",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "16:39",
+      "time_to": "17:38",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "16:50",
+      "time_to": "17:50",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "17:02",
+      "time_to": "18:02",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 1 м",
+      "time_from": "17:43",
+      "time_to": "18:44",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "17:50",
+      "time_to": "18:50",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "18:14",
+      "time_to": "19:14",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "18:21",
+      "time_to": "19:13",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "18:39",
+      "time_to": "19:38",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "19:19",
+      "time_to": "20:17",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "51 м",
+      "time_from": "19:34",
+      "time_to": "20:25",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "19:42",
+      "time_to": "20:41",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 2 м",
+      "time_from": "19:56",
+      "time_to": "20:59",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 3 м",
+      "time_from": "20:14",
+      "time_to": "21:17",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "20:22",
+      "time_to": "21:23",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "59 м",
+      "time_from": "20:41",
+      "time_to": "21:41",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "21:19",
+      "time_to": "22:19",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч 2 м",
+      "time_from": "21:29",
+      "time_to": "22:31",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "21:37",
+      "time_to": "22:37",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "1 ч",
+      "time_from": "21:43",
+      "time_to": "22:43",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "22:02",
+      "time_to": "23:01",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "22:08",
+      "time_to": "23:07",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "22:20",
+      "time_to": "23:19",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "22:44",
+      "time_to": "23:43",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "22:59",
+      "time_to": "23:58",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Щелково",
+      "station_to": "Ярославский вокзал",
+      "time_all": "58 м",
+      "time_from": "23:37",
+      "time_to": "00:36",
+      "total_price": "108₽"
+    }
+  ],
+  "yar_pus": [
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "04:26",
+      "time_to": "05:18",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "04:32",
+      "time_to": "05:24",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "04:40",
+      "time_to": "05:32",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "49 м",
+      "time_from": "05:10",
+      "time_to": "05:59",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "05:22",
+      "time_to": "06:12",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "49 м",
+      "time_from": "05:46",
+      "time_to": "06:35",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "33 м",
+      "time_from": "05:50",
+      "time_to": "06:23",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "06:28",
+      "time_to": "07:19",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "06:30",
+      "time_to": "07:04",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "33 м",
+      "time_from": "06:35",
+      "time_to": "07:08",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "36 м",
+      "time_from": "06:50",
+      "time_to": "07:26",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "45 м",
+      "time_from": "06:52",
+      "time_to": "07:37",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "53 м",
+      "time_from": "06:58",
+      "time_to": "07:51",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "07:00",
+      "time_to": "07:34",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "07:28",
+      "time_to": "08:20",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "32 м",
+      "time_from": "07:30",
+      "time_to": "08:02",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "07:33",
+      "time_to": "08:25",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "07:50",
+      "time_to": "08:24",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "07:58",
+      "time_to": "08:49",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "08:00",
+      "time_to": "08:34",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "08:04",
+      "time_to": "08:54",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "08:05",
+      "time_to": "08:39",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "43 м",
+      "time_from": "08:22",
+      "time_to": "09:05",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "33 м",
+      "time_from": "08:30",
+      "time_to": "09:03",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "08:34",
+      "time_to": "09:26",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "32 м",
+      "time_from": "08:40",
+      "time_to": "09:12",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "31 м",
+      "time_from": "08:50",
+      "time_to": "09:21",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "42 м",
+      "time_from": "08:52",
+      "time_to": "09:34",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "33 м",
+      "time_from": "08:55",
+      "time_to": "09:28",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "33 м",
+      "time_from": "09:00",
+      "time_to": "09:33",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "09:05",
+      "time_to": "09:55",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "33 м",
+      "time_from": "09:05",
+      "time_to": "09:38",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "43 м",
+      "time_from": "09:22",
+      "time_to": "10:05",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "28 м",
+      "time_from": "09:24",
+      "time_to": "09:52",
+      "total_price": null
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "33 м",
+      "time_from": "09:30",
+      "time_to": "10:03",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "41 м",
+      "time_from": "09:35",
+      "time_to": "10:16",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "49 м",
+      "time_from": "09:40",
+      "time_to": "10:29",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "09:46",
+      "time_to": "10:37",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "09:58",
+      "time_to": "10:49",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "54 м",
+      "time_from": "10:16",
+      "time_to": "11:10",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "37 м",
+      "time_from": "10:22",
+      "time_to": "10:59",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "53 м",
+      "time_from": "10:22",
+      "time_to": "11:15",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "10:37",
+      "time_to": "11:29",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "10:46",
+      "time_to": "11:20",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "10:49",
+      "time_to": "11:41",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "10:57",
+      "time_to": "11:49",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "11:22",
+      "time_to": "12:14",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "53 м",
+      "time_from": "11:28",
+      "time_to": "12:21",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "54 м",
+      "time_from": "11:40",
+      "time_to": "12:34",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "11:55",
+      "time_to": "12:29",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "12:02",
+      "time_to": "12:52",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "49 м",
+      "time_from": "12:14",
+      "time_to": "13:03",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "12:45",
+      "time_to": "13:19",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "12:58",
+      "time_to": "13:32",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "13:12",
+      "time_to": "14:02",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "40 м",
+      "time_from": "13:15",
+      "time_to": "13:55",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "13:26",
+      "time_to": "14:16",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "53 м",
+      "time_from": "13:48",
+      "time_to": "14:41",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "53 м",
+      "time_from": "13:54",
+      "time_to": "14:47",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "14:19",
+      "time_to": "15:11",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "39 м",
+      "time_from": "14:20",
+      "time_to": "14:59",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "14:50",
+      "time_to": "15:24",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "14:51",
+      "time_to": "15:43",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "48 м",
+      "time_from": "15:04",
+      "time_to": "15:52",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "49 м",
+      "time_from": "15:10",
+      "time_to": "15:59",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "15:16",
+      "time_to": "16:06",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "45 м",
+      "time_from": "15:43",
+      "time_to": "16:28",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "16:10",
+      "time_to": "16:44",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "48 м",
+      "time_from": "16:12",
+      "time_to": "17:00",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "16:18",
+      "time_to": "17:09",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "32 м",
+      "time_from": "16:20",
+      "time_to": "16:52",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "16:39",
+      "time_to": "17:31",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "16:45",
+      "time_to": "17:37",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "16:45",
+      "time_to": "17:19",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "17:15",
+      "time_to": "18:05",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "17:15",
+      "time_to": "17:49",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "33 м",
+      "time_from": "17:20",
+      "time_to": "17:53",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "55 м",
+      "time_from": "17:27",
+      "time_to": "18:22",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "49 м",
+      "time_from": "17:39",
+      "time_to": "18:28",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "55 м",
+      "time_from": "17:39",
+      "time_to": "18:34",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "17:45",
+      "time_to": "18:19",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "35 м",
+      "time_from": "17:50",
+      "time_to": "18:25",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "53 м",
+      "time_from": "17:57",
+      "time_to": "18:50",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "18:03",
+      "time_to": "18:54",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "18:05",
+      "time_to": "18:39",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "18:09",
+      "time_to": "19:00",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "31 м",
+      "time_from": "18:15",
+      "time_to": "18:46",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "18:21",
+      "time_to": "19:11",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "18:27",
+      "time_to": "19:17",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "32 м",
+      "time_from": "18:30",
+      "time_to": "19:02",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "53 м",
+      "time_from": "18:37",
+      "time_to": "19:30",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "18:45",
+      "time_to": "19:19",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "40 м",
+      "time_from": "18:55",
+      "time_to": "19:35",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "18:57",
+      "time_to": "19:48",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "53 м",
+      "time_from": "19:09",
+      "time_to": "20:02",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "31 м",
+      "time_from": "19:10",
+      "time_to": "19:41",
+      "total_price": null
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "19:15",
+      "time_to": "19:49",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "19:20",
+      "time_to": "19:54",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "45 м",
+      "time_from": "19:21",
+      "time_to": "20:06",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "43 м",
+      "time_from": "19:25",
+      "time_to": "20:08",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "19:25",
+      "time_to": "20:16",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "19:39",
+      "time_to": "20:29",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "19:45",
+      "time_to": "20:35",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "32 м",
+      "time_from": "19:45",
+      "time_to": "20:17",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "19:50",
+      "time_to": "20:42",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "32 м",
+      "time_from": "19:50",
+      "time_to": "20:22",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "43 м",
+      "time_from": "19:55",
+      "time_to": "20:38",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "20:15",
+      "time_to": "20:49",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "56 м",
+      "time_from": "20:16",
+      "time_to": "21:12",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "44 м",
+      "time_from": "20:36",
+      "time_to": "21:20",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "49 м",
+      "time_from": "20:42",
+      "time_to": "21:31",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "20:45",
+      "time_to": "21:19",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "20:48",
+      "time_to": "21:40",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "21:06",
+      "time_to": "21:56",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "21:12",
+      "time_to": "22:02",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "34 м",
+      "time_from": "21:30",
+      "time_to": "22:04",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "21:30",
+      "time_to": "22:21",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "41 м",
+      "time_from": "21:35",
+      "time_to": "22:16",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "21:42",
+      "time_to": "22:32",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "33 м",
+      "time_from": "22:00",
+      "time_to": "22:33",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "49 м",
+      "time_from": "22:06",
+      "time_to": "22:55",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "22:13",
+      "time_to": "23:05",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "43 м",
+      "time_from": "22:26",
+      "time_to": "23:09",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "50 м",
+      "time_from": "22:32",
+      "time_to": "23:22",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "52 м",
+      "time_from": "22:38",
+      "time_to": "23:30",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "33 м",
+      "time_from": "23:00",
+      "time_to": "23:33",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "54 м",
+      "time_from": "23:02",
+      "time_to": "23:56",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "54 м",
+      "time_from": "23:14",
+      "time_to": "00:08",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "49 м",
+      "time_from": "23:38",
+      "time_to": "00:27",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "49 м",
+      "time_from": "23:46",
+      "time_to": "00:35",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "00:43",
+      "time_to": "01:34",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Ярославский вокзал",
+      "station_to": "Пушкино",
+      "time_all": "51 м",
+      "time_from": "01:11",
+      "time_to": "02:02",
+      "total_price": "108₽"
+    }
+  ],
+  "pus_yar": [
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "04:25",
+      "time_to": "05:15",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "41 м",
+      "time_from": "04:45",
+      "time_to": "05:27",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "05:05",
+      "time_to": "05:57",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "05:11",
+      "time_to": "06:03",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "47 м",
+      "time_from": "05:21",
+      "time_to": "06:09",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "36 м",
+      "time_from": "05:38",
+      "time_to": "06:14",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "51 м",
+      "time_from": "05:48",
+      "time_to": "06:39",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "05:59",
+      "time_to": "06:51",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "36 м",
+      "time_from": "06:09",
+      "time_to": "06:45",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "06:16",
+      "time_to": "06:48",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "47 м",
+      "time_from": "06:16",
+      "time_to": "07:03",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "06:20",
+      "time_to": "07:12",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "06:25",
+      "time_to": "07:15",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "39 м",
+      "time_from": "06:33",
+      "time_to": "07:12",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "41 м",
+      "time_from": "06:40",
+      "time_to": "07:21",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "06:46",
+      "time_to": "07:18",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "55 м",
+      "time_from": "06:50",
+      "time_to": "07:45",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "51 м",
+      "time_from": "07:00",
+      "time_to": "07:51",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "51 м",
+      "time_from": "07:05",
+      "time_to": "07:57",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "07:11",
+      "time_to": "07:43",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "07:12",
+      "time_to": "08:02",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "07:16",
+      "time_to": "07:48",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "56 м",
+      "time_from": "07:19",
+      "time_to": "08:15",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "07:23",
+      "time_to": "07:55",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "07:31",
+      "time_to": "08:21",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "31 м",
+      "time_from": "07:37",
+      "time_to": "08:08",
+      "total_price": null
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "46 м",
+      "time_from": "07:42",
+      "time_to": "08:28",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "07:46",
+      "time_to": "08:18",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "07:47",
+      "time_to": "08:39",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "53 м",
+      "time_from": "07:52",
+      "time_to": "08:45",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "53 м",
+      "time_from": "07:58",
+      "time_to": "08:51",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "40 м",
+      "time_from": "08:06",
+      "time_to": "08:46",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "42 м",
+      "time_from": "08:10",
+      "time_to": "08:53",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "33 м",
+      "time_from": "08:15",
+      "time_to": "08:48",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "38 м",
+      "time_from": "08:20",
+      "time_to": "08:58",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "46 м",
+      "time_from": "08:24",
+      "time_to": "09:10",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "46 м",
+      "time_from": "08:29",
+      "time_to": "09:16",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "08:46",
+      "time_to": "09:18",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "44 м",
+      "time_from": "08:48",
+      "time_to": "09:33",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "53 м",
+      "time_from": "08:58",
+      "time_to": "09:51",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "45 м",
+      "time_from": "09:12",
+      "time_to": "09:57",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "33 м",
+      "time_from": "09:15",
+      "time_to": "09:48",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "54 м",
+      "time_from": "09:21",
+      "time_to": "10:15",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "45 м",
+      "time_from": "09:36",
+      "time_to": "10:21",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "31 м",
+      "time_from": "09:45",
+      "time_to": "10:16",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "48 м",
+      "time_from": "09:47",
+      "time_to": "10:36",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "09:58",
+      "time_to": "10:48",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "49 м",
+      "time_from": "10:14",
+      "time_to": "11:03",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "49 м",
+      "time_from": "10:20",
+      "time_to": "11:09",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "41 м",
+      "time_from": "10:33",
+      "time_to": "11:15",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "47 м",
+      "time_from": "10:45",
+      "time_to": "11:33",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "10:57",
+      "time_to": "11:29",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "46 м",
+      "time_from": "11:06",
+      "time_to": "11:52",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "11:30",
+      "time_to": "12:20",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "44 м",
+      "time_from": "11:49",
+      "time_to": "12:33",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "46 м",
+      "time_from": "11:54",
+      "time_to": "12:41",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "12:07",
+      "time_to": "12:59",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "12:14",
+      "time_to": "13:05",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "45 м",
+      "time_from": "12:26",
+      "time_to": "13:11",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "12:41",
+      "time_to": "13:31",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "13:01",
+      "time_to": "13:33",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "13:15",
+      "time_to": "14:05",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "49 м",
+      "time_from": "13:29",
+      "time_to": "14:18",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "53 м",
+      "time_from": "13:51",
+      "time_to": "14:44",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "30 м",
+      "time_from": "13:55",
+      "time_to": "14:25",
+      "total_price": null
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "51 м",
+      "time_from": "14:05",
+      "time_to": "14:56",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "45 м",
+      "time_from": "14:18",
+      "time_to": "15:03",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "14:30",
+      "time_to": "15:21",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "14:37",
+      "time_to": "15:27",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "14:46",
+      "time_to": "15:18",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "45 м",
+      "time_from": "14:55",
+      "time_to": "15:40",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "48 м",
+      "time_from": "15:16",
+      "time_to": "16:04",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "15:16",
+      "time_to": "15:48",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "45 м",
+      "time_from": "15:26",
+      "time_to": "16:11",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "36 м",
+      "time_from": "15:31",
+      "time_to": "16:07",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "15:36",
+      "time_to": "16:26",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "48 м",
+      "time_from": "15:43",
+      "time_to": "16:32",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "15:48",
+      "time_to": "16:38",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "30 м",
+      "time_from": "15:53",
+      "time_to": "16:23",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "48 м",
+      "time_from": "16:01",
+      "time_to": "16:50",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "48 м",
+      "time_from": "16:14",
+      "time_to": "17:02",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "16:31",
+      "time_to": "17:03",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "41 м",
+      "time_from": "16:33",
+      "time_to": "17:14",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "16:40",
+      "time_to": "17:32",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "54 м",
+      "time_from": "16:50",
+      "time_to": "17:44",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "17:01",
+      "time_to": "17:33",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "51 м",
+      "time_from": "17:04",
+      "time_to": "17:56",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "17:18",
+      "time_to": "18:08",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "17:24",
+      "time_to": "18:14",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "55 м",
+      "time_from": "17:31",
+      "time_to": "18:26",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "30 м",
+      "time_from": "17:38",
+      "time_to": "18:08",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "17:39",
+      "time_to": "18:32",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "37 м",
+      "time_from": "17:47",
+      "time_to": "18:25",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "40 м",
+      "time_from": "17:58",
+      "time_to": "18:38",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "18:01",
+      "time_to": "18:33",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "48 м",
+      "time_from": "18:07",
+      "time_to": "18:56",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "18:16",
+      "time_to": "19:08",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "38 м",
+      "time_from": "18:20",
+      "time_to": "18:58",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "18:31",
+      "time_to": "19:03",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "44 м",
+      "time_from": "18:35",
+      "time_to": "19:20",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "18:40",
+      "time_to": "19:32",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "18:51",
+      "time_to": "19:44",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "37 м",
+      "time_from": "19:01",
+      "time_to": "19:38",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "51 м",
+      "time_from": "19:06",
+      "time_to": "19:57",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "51 м",
+      "time_from": "19:12",
+      "time_to": "20:03",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "41 м",
+      "time_from": "19:29",
+      "time_to": "20:10",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "19:31",
+      "time_to": "20:03",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "31 м",
+      "time_from": "19:41",
+      "time_to": "20:13",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "39 м",
+      "time_from": "19:51",
+      "time_to": "20:30",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "51 м",
+      "time_from": "19:56",
+      "time_to": "20:47",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "35 м",
+      "time_from": "19:58",
+      "time_to": "20:33",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "56 м",
+      "time_from": "20:09",
+      "time_to": "21:05",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "54 м",
+      "time_from": "20:17",
+      "time_to": "21:11",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "44 м",
+      "time_from": "20:38",
+      "time_to": "21:22",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "52 м",
+      "time_from": "20:55",
+      "time_to": "21:47",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "37 м",
+      "time_from": "21:01",
+      "time_to": "21:38",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "43 м",
+      "time_from": "21:16",
+      "time_to": "21:59",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "41 м",
+      "time_from": "21:17",
+      "time_to": "21:58",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "38 м",
+      "time_from": "21:27",
+      "time_to": "22:05",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "32 м",
+      "time_from": "21:31",
+      "time_to": "22:03",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "51 м",
+      "time_from": "21:34",
+      "time_to": "22:25",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "48 м",
+      "time_from": "21:42",
+      "time_to": "22:31",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "29 м",
+      "time_from": "22:08",
+      "time_to": "22:38",
+      "total_price": "210₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "40 м",
+      "time_from": "22:28",
+      "time_to": "23:08",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "48 м",
+      "time_from": "22:46",
+      "time_to": "23:34",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "49 м",
+      "time_from": "23:03",
+      "time_to": "23:52",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "23:23",
+      "time_to": "00:13",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "23:30",
+      "time_to": "00:20",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "48 м",
+      "time_from": "23:44",
+      "time_to": "00:32",
+      "total_price": "108₽"
+    },
+    {
+      "station_from": "Пушкино",
+      "station_to": "Ярославский вокзал",
+      "time_all": "50 м",
+      "time_from": "23:52",
+      "time_to": "00:42",
+      "total_price": "108₽"
+    }
+  ]
+}

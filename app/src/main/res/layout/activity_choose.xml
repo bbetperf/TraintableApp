@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayoutMainContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewChooseStation"
+            style="@style/TextViewHeader"
+            android:text="@string/Choose_station_Title" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5sp"
+            android:layout_marginTop="16dp"
+            android:background="@color/gray_lines" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/RailwaysSubtitle"
+                style="@style/TextViewSecondaryGray"
+                android:text="@string/Railway_stations" />
+
+            <LinearLayout
+                android:id="@+id/linearLayoutStationsList"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/buttonStationOne"
+                    style="@style/MyButtonBlackChoose"
+                    android:onClick="onClick"
+                    android:text="@string/Kazansky_station" />
+
+                <Button
+                    android:id="@+id/buttonStationTwo"
+                    style="@style/MyButtonBlackChoose"
+                    android:onClick="onClick"
+                    android:text="@string/Yaroslavsky_station" />
+
+                <Button
+                    android:id="@+id/buttonStationThree"
+                    style="@style/MyButtonBlackChoose"
+                    android:onClick="onClick"
+                    android:text="@string/Ramenskoe" />
+
+                <Button
+                    android:id="@+id/buttonStationFour"
+                    style="@style/MyButtonBlackChoose"
+                    android:onClick="onClick"
+                    android:text="@string/Pushkino" />
+
+                <Button
+                    android:id="@+id/buttonStationFive"
+                    style="@style/MyButtonBlackChoose"
+                    android:onClick="onClick"
+                    android:text="@string/Schelokovo" />
+
+                <Button
+                    android:id="@+id/buttonStationSix"
+                    style="@style/MyButtonBlackChoose"
+                    android:onClick="onClick"
+                    android:text="@string/Ryazan" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
