@@ -2,12 +2,12 @@ package com.example.traintable;
 
 public class Timetable {
 
-    private String timeStart; //отправлние
-    private String timeEnd;  //прибытие
-    private String timeDuration; //длительность поездки
-    private String stationStart; //станция отправления
-    private String stationEnd; //станция прибытия
-    private String price; //цена
+    private String timeStart;
+    private String timeEnd;
+    private String timeDuration;
+    private String stationStart;
+    private String stationEnd;
+    private String price;
 
     public Timetable(String timeStart, String timeEnd, String timeDuration, String stationStart, String stationEnd, String price) {
         this.timeStart = timeStart;
